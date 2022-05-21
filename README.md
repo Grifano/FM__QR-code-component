@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
     - [My Process](#my-process)
       - [Build with](#built-with)
-      - [What I learned](#what-i-learned)
       - [Continued Development](#continued-development)
       - [Useful Resources](#useful-resources)
 - [Author](#author)
@@ -28,31 +27,15 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live](???)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qrcode-component-htmlandcss-with-sassscss-IYldh-ZCHU)
+- Live Site URL: [Live](https://grifano.github.io/FM__QR-code-component/)
 
 ## My process
 
 ### Built with
 
-<!-- - Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML5 markup
 - SASS/SCSS
-- JavaScript
-- Flexbox
-- Responsive Web Design -->
-
-### What I learned
-
-???
-
-```css
-???
-```
-
-```js
-???
-```
 
 ### Continued development
 

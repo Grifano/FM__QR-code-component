@@ -238,10 +238,12 @@ body main {
   font-weight: 700;
   line-height: 28px;
   margin-bottom: 16px;
+  color: #1f3251;
 }
 
 .qr-code__subtitle {
   font-size: 15px;
   line-height: 19px;
   margin-bottom: 40px;
+  color: #7b879d;
 }
