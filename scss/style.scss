@@ -2,6 +2,10 @@
 @import "./vars";
 @import "./global";
 
+h1 {
+  display: none;
+}
+
 .qr-code {
   padding: 16px;
   max-width: 352px;
